@@ -18,27 +18,54 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Researcher"
+  company = "Keio University Graduate School of Media and Governance"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Kanagawa"
+  date_start = "2019-04-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  - Research on Blockchain
+  - Teaching Fundamentals of Information Technology 1 / 2
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "BCALI (BlockChain as Advanced Layer of the Internet) Group Leader"
+  company = "Keio University Jun Murai Lab."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Kanagawa"
+  date_start = "2018-04-01"
+  date_end = ""
+  description = """Research on Blockchain"""
+
+[[experience]]
+  title = "Software Engineer Internship"
+  company = "Mercari, Inc."
+  company_url = ""
+  location = "Tokyo"
+  date_start = "2018-06-01"
+  date_end = "2019-03-31"
+  description = """
+  Next Generation Financial Services Development (Merpay, Inc.)\n
+  - Research on Security and Incentive model of Blockchain
+  """
+
+[[experience]]
+  title = "Summer Internship"
+  company = "NTT Service Evolution Laboratories"
+  company_url = ""
+  location = "Kanagawa"
+  date_start = "2017-08-01"
+  date_end = "2017-09-10"
+  description = """Research on Information Transparency on Blockchain"""
+
+[[experience]]
+  title = "NECO (NEtwork and Communication) Group Leader"
+  company = "Keio University Jun Murai Lab."
+  company_url = ""
+  location = "Kanagawa"
+  date_start = "2015-08-01"
+  date_end = "2017-03-31"
+  description = """Research on Blockchain"""
 
 +++
