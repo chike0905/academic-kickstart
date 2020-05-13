@@ -35,6 +35,8 @@ subtitle = ""
 
 +++
 ## As a Teacher
+- Fundamentals of Information Technology 1, Ryosuke Abe, Faculty of Enviromanet and Information Studies, Keio Univ., 2020 Spring Semester
+- Fundamentals of Information Technology 2, Ryosuke Abe, Faculty of Enviromanet and Information Studies, Keio Univ., 2019 Fall Semester
 - Fundamentals of Information Technology 1, Ryosuke Abe, Faculty of Enviromanet and Information Studies, Keio Univ., 2019 Spring Semester
 
 ## As a Teaching Assistant / Student Assistant
